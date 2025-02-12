@@ -10,3 +10,4 @@ Description: This is a example of rni
 Requires: python3
 Requires-pip:
 Changelog: "1.0.0: Example","1.0.1: Updated Example"
+Rni: rasmnout/example-rni
